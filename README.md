@@ -1,0 +1,2 @@
+# multipath_autobuild
+适用于multipath多路径软件自动构建多路径信息
